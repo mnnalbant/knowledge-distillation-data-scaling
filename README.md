@@ -1,9 +1,3 @@
-Below is a **clean, portfolio-ready README** you can **copy–paste directly** into `README.md` for
-`knowledge-distillation-data-scaling`.
-It is written to look like a **serious research / undergrad ML project**, not a toy repo.
-
----
-
 # Knowledge Distillation via Data Scaling
 
 **How Much Teacher-Generated Data Does a Student Need?**
