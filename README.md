@@ -131,8 +131,7 @@ This highlights the **fundamental capacity limits of small models**, even under 
 ```
 .
 ├── main.ipynb          # Training, evaluation, and plotting
-├── README.md           # Project documentation
-└── slides.pdf          # Project presentation (optional)
+└── README.md           # Project documentation
 ```
 
 ---
@@ -164,6 +163,5 @@ jupyter notebook main.ipynb
 
 ## References
 
-* Hinton et al., *Distilling the Knowledge in a Neural Network*
 * Alpaca Instruction Dataset
 * GPT-2 (Radford et al.)
